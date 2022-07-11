@@ -10,6 +10,11 @@
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Count_the_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Define_a_for-loop.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Fizz_Buzz.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_longest_sequence.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Theory.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Last_symbol.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-N-th_symbol.main" target="11" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Name_Card.main" target="11" />
